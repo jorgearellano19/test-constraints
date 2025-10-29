@@ -200,7 +200,7 @@ asttokens==2.4.1
 asyncssh==2.18.0
 atlasclient==1.0.0
 atlassian-python-api==3.41.16
-attrs==24.2.0
+attrs==23.1.0
 aws-sam-translator==1.91.0
 aws-xray-sdk==2.14.0
 azure-batch==14.2.0
