@@ -69,7 +69,7 @@ WTForms==3.2.1
 Werkzeug==2.2.3
 adal==1.2.7
 adlfs==2024.7.0
-aiobotocore==2.15.2
+aiobotocore==2.25.1
 aiofiles==23.2.1
 aiohappyeyeballs==2.4.3
 aiohttp==3.10.10
