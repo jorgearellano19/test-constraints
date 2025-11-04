@@ -69,7 +69,7 @@ WTForms==3.2.1
 Werkzeug==2.2.3
 adal==1.2.7
 adlfs==2024.7.0
-aiobotocore==2.23.2
+aiobotocore==2.15.2
 aiofiles==23.2.1
 aiohappyeyeballs==2.4.3
 aiohttp==3.10.10
@@ -98,7 +98,7 @@ anyascii==0.3.2
 anyio==4.6.2.post1
 apache-airflow-providers-airbyte==4.0.0
 apache-airflow-providers-alibaba==2.9.1
-apache-airflow-providers-amazon==9.0.0
+apache-airflow-providers-amazon==8.16.0
 apache-airflow-providers-apache-beam==5.9.0
 apache-airflow-providers-apache-cassandra==3.6.0
 apache-airflow-providers-apache-drill==2.8.0
@@ -237,8 +237,8 @@ billiard==4.2.1
 bitarray==3.0.0
 black==24.10.0
 blinker==1.8.2
-boto3==1.39.7
-botocore==1.39.7
+boto3==1.35.36
+botocore==1.35.36
 cachelib==0.9.0
 cachetools==5.5.0
 cassandra-driver==3.29.2
@@ -547,7 +547,7 @@ prometheus_client==0.21.0
 prompt_toolkit==3.0.48
 propcache==0.2.0
 proto-plus==1.25.0
-protobuf==5.29.4
+protobuf==4.25.5
 psutil==6.1.0
 psycopg2-binary==2.9.10
 ptyprocess==0.7.0
@@ -609,7 +609,7 @@ qdrant-client==1.12.1
 reactivex==4.0.4
 readme_renderer==43.0
 redis==5.2.0
-redshift-connector==2.0.918
+redshift-connector==2.0.917
 referencing==0.35.1
 regex==2024.9.11
 requests-file==2.1.0
@@ -630,7 +630,7 @@ rpds-py==0.20.1
 rsa==4.9
 ruff==0.5.5
 s3fs==2024.10.0
-s3transfer==0.13.0
+s3transfer==0.10.3
 scramp==1.4.5
 scrapbook==0.5.0
 semver==3.0.2
